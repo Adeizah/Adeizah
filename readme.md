@@ -5,8 +5,10 @@ Welcome to my GitHub profile! I’m a passionate Data Analyst with a strong foun
 ## Technical Skills
 - **Excel**
 - **Power BI**
+- **Tableau**
 - **SQL**
 - **Python**
+- **R**
 
 ## Education
 - **Bachelor's degree in Petroleum and Gas Engineering**  
